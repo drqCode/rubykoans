@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7f5785e-2783-48da-9322-b92c556efbb6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_hashes.rb" afterPath="$PROJECT_DIR$/koans/about_hashes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_strings.rb" afterPath="$PROJECT_DIR$/koans/about_strings.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_regular_expressions.rb" afterPath="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_symbols.rb" afterPath="$PROJECT_DIR$/koans/about_symbols.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,11 +88,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_strings.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_strings.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_strings.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="196" column="22" lean-forward="false" selection-start-line="196" selection-start-column="22" selection-end-line="196" selection-end-column="22" />
+            <state relative-caret-position="375">
+              <caret line="187" column="27" lean-forward="true" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_symbols.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_symbols.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="100" column="16" lean-forward="true" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_regular_expressions.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -114,6 +133,8 @@
         <option value="$PROJECT_DIR$/koans/about_array_assignment.rb" />
         <option value="$PROJECT_DIR$/koans/about_hashes.rb" />
         <option value="$PROJECT_DIR$/koans/about_strings.rb" />
+        <option value="$PROJECT_DIR$/koans/about_symbols.rb" />
+        <option value="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
       </list>
     </option>
   </component>
@@ -219,12 +240,12 @@
       <updated>1510735545604</updated>
       <workItem from="1510735546773" duration="5633000" />
       <workItem from="1510817004302" duration="6000" />
-      <workItem from="1510817487128" duration="12496000" />
+      <workItem from="1510817487128" duration="19741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18135000" />
+    <option name="totallyTimeSpent" value="25380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="214" width="1920" height="1082" extended-state="6" />
@@ -382,8 +403,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_strings.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="196" column="22" lean-forward="false" selection-start-line="196" selection-start-column="22" selection-end-line="196" selection-end-column="22" />
+        <state relative-caret-position="375">
+          <caret line="187" column="27" lean-forward="true" selection-start-line="187" selection-start-column="27" selection-end-line="187" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_symbols.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="100" column="16" lean-forward="true" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_regular_expressions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
           <folding />
         </state>
       </provider>
