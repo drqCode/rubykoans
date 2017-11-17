@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d7f5785e-2783-48da-9322-b92c556efbb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_constants.rb" afterPath="$PROJECT_DIR$/koans/about_constants.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_control_statements.rb" afterPath="$PROJECT_DIR$/koans/about_control_statements.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_keyword_arguments.rb" afterPath="$PROJECT_DIR$/koans/about_keyword_arguments.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_methods.rb" afterPath="$PROJECT_DIR$/koans/about_methods.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_regular_expressions.rb" afterPath="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_symbols.rb" afterPath="$PROJECT_DIR$/koans/about_symbols.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,36 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about_asserts.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_asserts.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_nil.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_nil.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_objects.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_objects.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_arrays.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,8 +54,18 @@
       <file leaf-file-name="about_constants.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_constants.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_control_statements.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_control_statements.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="136" column="14" lean-forward="true" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -108,11 +91,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_regular_expressions.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_regular_expressions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+            <state relative-caret-position="455">
+              <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_methods.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_methods.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="122" column="33" lean-forward="false" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_keyword_arguments.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_keyword_arguments.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -135,6 +138,10 @@
         <option value="$PROJECT_DIR$/koans/about_strings.rb" />
         <option value="$PROJECT_DIR$/koans/about_symbols.rb" />
         <option value="$PROJECT_DIR$/koans/about_regular_expressions.rb" />
+        <option value="$PROJECT_DIR$/koans/about_methods.rb" />
+        <option value="$PROJECT_DIR$/koans/about_keyword_arguments.rb" />
+        <option value="$PROJECT_DIR$/koans/about_constants.rb" />
+        <option value="$PROJECT_DIR$/koans/about_control_statements.rb" />
       </list>
     </option>
   </component>
@@ -240,12 +247,12 @@
       <updated>1510735545604</updated>
       <workItem from="1510735546773" duration="5633000" />
       <workItem from="1510817004302" duration="6000" />
-      <workItem from="1510817487128" duration="19741000" />
+      <workItem from="1510817487128" duration="27167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25380000" />
+    <option name="totallyTimeSpent" value="32806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="214" width="1920" height="1082" extended-state="6" />
@@ -393,14 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_constants.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_strings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -419,8 +418,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_regular_expressions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+        <state relative-caret-position="455">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="122" column="33" lean-forward="false" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_keyword_arguments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_constants.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_control_statements.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="136" column="14" lean-forward="true" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
           <folding />
         </state>
       </provider>
