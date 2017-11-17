@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d7f5785e-2783-48da-9322-b92c556efbb6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_classes.rb" afterPath="$PROJECT_DIR$/koans/about_classes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_dice_project.rb" afterPath="$PROJECT_DIR$/koans/about_dice_project.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_inheritance.rb" afterPath="$PROJECT_DIR$/koans/about_inheritance.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_open_classes.rb" afterPath="$PROJECT_DIR$/koans/about_open_classes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scoring_project.rb" afterPath="$PROJECT_DIR$/koans/about_scoring_project.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_class_methods.rb" afterPath="$PROJECT_DIR$/koans/about_class_methods.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_message_passing.rb" afterPath="$PROJECT_DIR$/koans/about_message_passing.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_modules.rb" afterPath="$PROJECT_DIR$/koans/about_modules.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scope.rb" afterPath="$PROJECT_DIR$/koans/about_scope.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,41 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about_iteration.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_iteration.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="117" column="32" lean-forward="true" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_blocks.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_arrays.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_arrays.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_sandwich_code.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="103" column="5" lean-forward="true" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -74,8 +43,18 @@
       <file leaf-file-name="about_class_methods.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_class_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="335">
+              <caret line="159" column="34" lean-forward="true" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_message_passing.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_message_passing.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -111,11 +90,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_inheritance.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_inheritance.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_inheritance.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="440">
               <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_modules.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_modules.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="60" column="27" lean-forward="false" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_scope.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_scope.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -153,6 +152,10 @@
         <option value="$PROJECT_DIR$/koans/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/koans/about_dice_project.rb" />
         <option value="$PROJECT_DIR$/koans/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/koans/about_modules.rb" />
+        <option value="$PROJECT_DIR$/koans/about_scope.rb" />
+        <option value="$PROJECT_DIR$/koans/about_class_methods.rb" />
+        <option value="$PROJECT_DIR$/koans/about_message_passing.rb" />
       </list>
     </option>
   </component>
@@ -258,12 +261,12 @@
       <updated>1510735545604</updated>
       <workItem from="1510735546773" duration="5633000" />
       <workItem from="1510817004302" duration="6000" />
-      <workItem from="1510817487128" duration="42348000" />
+      <workItem from="1510817487128" duration="47294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47987000" />
+    <option name="totallyTimeSpent" value="52933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="214" width="1920" height="1082" extended-state="6" />
@@ -547,14 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_class_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_open_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -581,8 +576,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_inheritance.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="440">
           <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="60" column="27" lean-forward="false" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="71" column="29" lean-forward="false" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_class_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="159" column="34" lean-forward="true" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_message_passing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
           <folding />
         </state>
       </provider>
